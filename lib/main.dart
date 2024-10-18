@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:intagram_flutter/responsive/mobile_screen_layout.dart';
-import 'package:intagram_flutter/responsive/responsive_layout_screen.dart';
-import 'package:intagram_flutter/responsive/web_screen_layout.dart';
-import 'package:intagram_flutter/utils/colors.dart';
+import 'package:Instagram_clone_flutter/responsive/mobile_screen_layout.dart';
+import 'package:Instagram_clone_flutter/responsive/responsive_layout_screen.dart';
+import 'package:Instagram_clone_flutter/responsive/web_screen_layout.dart';
+import 'package:Instagram_clone_flutter/utils/colors.dart';
 
 void main() {
   runApp(const MyApp());
